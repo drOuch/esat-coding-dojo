@@ -1,0 +1,9 @@
+C:\Users\EurosatCS\RiderProjects\PokerHands\Evaluator\bin\Debug\netcoreapp2.2\Evaluator.deps.json
+C:\Users\EurosatCS\RiderProjects\PokerHands\Evaluator\bin\Debug\netcoreapp2.2\Evaluator.dll
+C:\Users\EurosatCS\RiderProjects\PokerHands\Evaluator\bin\Debug\netcoreapp2.2\Evaluator.pdb
+C:\Users\EurosatCS\RiderProjects\PokerHands\Evaluator\obj\Debug\netcoreapp2.2\Evaluator.csprojAssemblyReference.cache
+C:\Users\EurosatCS\RiderProjects\PokerHands\Evaluator\obj\Debug\netcoreapp2.2\Evaluator.csproj.CoreCompileInputs.cache
+C:\Users\EurosatCS\RiderProjects\PokerHands\Evaluator\obj\Debug\netcoreapp2.2\Evaluator.AssemblyInfoInputs.cache
+C:\Users\EurosatCS\RiderProjects\PokerHands\Evaluator\obj\Debug\netcoreapp2.2\Evaluator.AssemblyInfo.cs
+C:\Users\EurosatCS\RiderProjects\PokerHands\Evaluator\obj\Debug\netcoreapp2.2\Evaluator.dll
+C:\Users\EurosatCS\RiderProjects\PokerHands\Evaluator\obj\Debug\netcoreapp2.2\Evaluator.pdb
