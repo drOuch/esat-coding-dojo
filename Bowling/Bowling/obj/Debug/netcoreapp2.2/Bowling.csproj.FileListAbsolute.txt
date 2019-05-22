@@ -1,0 +1,9 @@
+C:\Users\EurosatCS\RiderProjects\Bowling\Bowling\bin\Debug\netcoreapp2.2\Bowling.deps.json
+C:\Users\EurosatCS\RiderProjects\Bowling\Bowling\bin\Debug\netcoreapp2.2\Bowling.dll
+C:\Users\EurosatCS\RiderProjects\Bowling\Bowling\bin\Debug\netcoreapp2.2\Bowling.pdb
+C:\Users\EurosatCS\RiderProjects\Bowling\Bowling\obj\Debug\netcoreapp2.2\Bowling.csprojAssemblyReference.cache
+C:\Users\EurosatCS\RiderProjects\Bowling\Bowling\obj\Debug\netcoreapp2.2\Bowling.csproj.CoreCompileInputs.cache
+C:\Users\EurosatCS\RiderProjects\Bowling\Bowling\obj\Debug\netcoreapp2.2\Bowling.AssemblyInfoInputs.cache
+C:\Users\EurosatCS\RiderProjects\Bowling\Bowling\obj\Debug\netcoreapp2.2\Bowling.AssemblyInfo.cs
+C:\Users\EurosatCS\RiderProjects\Bowling\Bowling\obj\Debug\netcoreapp2.2\Bowling.dll
+C:\Users\EurosatCS\RiderProjects\Bowling\Bowling\obj\Debug\netcoreapp2.2\Bowling.pdb

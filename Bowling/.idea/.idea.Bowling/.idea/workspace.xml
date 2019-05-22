@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8544c0d2-8492-41c3-961e-6067626f0500" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Bowling/Scoreboard.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="46" column="35" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="35" />
+              <folding>
+                <marker date="1558525665034" expanded="true" signature="6:47" ph="..." />
+                <marker date="1558525665034" expanded="true" signature="85:3286" ph="{...}" />
+                <marker date="1558525665034" expanded="true" signature="115:3284" ph="{...}" />
+                <marker date="1558525665034" expanded="true" signature="412:736" ph="{...}" />
+                <marker date="1558525665034" expanded="true" signature="499:553" ph="{...}" />
+                <marker date="1558525665034" expanded="true" signature="555:726" ph="/* _scoreList.Add(skittles); ... */" />
+                <marker date="1558525665034" expanded="true" signature="768:3278" ph="{...}" />
+                <marker date="1558525665034" expanded="true" signature="861:1455" ph="{...}" />
+                <marker date="1558525665034" expanded="true" signature="1012:1274" ph="{...}" />
+                <marker date="1558525665034" expanded="true" signature="1159:1256" ph="{...}" />
+                <marker date="1558525665034" expanded="true" signature="1356:1441" ph="{...}" />
+                <marker date="1558525665034" expanded="true" signature="1469:3228" ph="/* int result = 0; ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Bowling.Tests/UnitTest1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="269">
+              <caret line="54" column="73" selection-start-line="54" selection-start-column="73" selection-end-line="54" selection-end-column="73" />
+              <folding>
+                <marker date="1558524666535" expanded="true" signature="6:70" ph="..." />
+                <marker date="1558524666535" expanded="true" signature="95:2314" ph="{...}" />
+                <marker date="1558524666535" expanded="true" signature="124:2312" ph="{...}" />
+                <marker date="1558524666535" expanded="true" signature="179:342" ph="{...}" />
+                <marker date="1558524666535" expanded="true" signature="560:621" ph="{...}" />
+                <marker date="1558524666535" expanded="true" signature="763:824" ph="{...}" />
+                <marker date="1558524666535" expanded="true" signature="1032:1093" ph="{...}" />
+                <marker date="1558524666535" expanded="true" signature="1311:1372" ph="{...}" />
+                <marker date="1558524666535" expanded="true" signature="1930:1991" ph="{...}" />
+                <marker date="1558524666535" expanded="true" signature="2058:2306" ph="{...}" />
+                <marker date="1558524666535" expanded="true" signature="2157:2233" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Bowling/Scoreboard.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Bowling.Tests/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Bowling.Tests/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/Bowling/Scoreboard.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Bowling" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Bowling" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Bowling" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Bowling" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Bowling.Tests" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Bowling" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Bowling.Tests" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Bowling" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Bowling.Tests" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
+              <item name=".NETCoreApp 2.2" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Bowling" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Bowling.Tests" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
+              <item name=".NETCoreApp 2.2" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Packages" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8544c0d2-8492-41c3-961e-6067626f0500" name="Default Changelist" comment="" />
+      <created>1558509237422</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558509237422</updated>
+      <workItem from="1558509240261" duration="12036000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12036000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Unit Tests" visible="true" weight="0.42634562" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Bowling.Tests/UnitTest1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="54" column="73" selection-start-line="54" selection-start-column="73" selection-end-line="54" selection-end-column="73" />
+          <folding>
+            <marker date="1558524666535" expanded="true" signature="6:70" ph="..." />
+            <marker date="1558524666535" expanded="true" signature="95:2314" ph="{...}" />
+            <marker date="1558524666535" expanded="true" signature="124:2312" ph="{...}" />
+            <marker date="1558524666535" expanded="true" signature="179:342" ph="{...}" />
+            <marker date="1558524666535" expanded="true" signature="560:621" ph="{...}" />
+            <marker date="1558524666535" expanded="true" signature="763:824" ph="{...}" />
+            <marker date="1558524666535" expanded="true" signature="1032:1093" ph="{...}" />
+            <marker date="1558524666535" expanded="true" signature="1311:1372" ph="{...}" />
+            <marker date="1558524666535" expanded="true" signature="1930:1991" ph="{...}" />
+            <marker date="1558524666535" expanded="true" signature="2058:2306" ph="{...}" />
+            <marker date="1558524666535" expanded="true" signature="2157:2233" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bowling/Scoreboard.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="46" column="35" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="35" />
+          <folding>
+            <marker date="1558525665034" expanded="true" signature="6:47" ph="..." />
+            <marker date="1558525665034" expanded="true" signature="85:3286" ph="{...}" />
+            <marker date="1558525665034" expanded="true" signature="115:3284" ph="{...}" />
+            <marker date="1558525665034" expanded="true" signature="412:736" ph="{...}" />
+            <marker date="1558525665034" expanded="true" signature="499:553" ph="{...}" />
+            <marker date="1558525665034" expanded="true" signature="555:726" ph="/* _scoreList.Add(skittles); ... */" />
+            <marker date="1558525665034" expanded="true" signature="768:3278" ph="{...}" />
+            <marker date="1558525665034" expanded="true" signature="861:1455" ph="{...}" />
+            <marker date="1558525665034" expanded="true" signature="1012:1274" ph="{...}" />
+            <marker date="1558525665034" expanded="true" signature="1159:1256" ph="{...}" />
+            <marker date="1558525665034" expanded="true" signature="1356:1441" ph="{...}" />
+            <marker date="1558525665034" expanded="true" signature="1469:3228" ph="/* int result = 0; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,17 @@
+C:\Users\EurosatCS\RiderProjects\Bowling\Bowling.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\EurosatCS\RiderProjects\Bowling\Bowling.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\EurosatCS\RiderProjects\Bowling\Bowling.Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\EurosatCS\RiderProjects\Bowling\Bowling.Tests\bin\Debug\netcoreapp2.2\Bowling.Tests.deps.json
+C:\Users\EurosatCS\RiderProjects\Bowling\Bowling.Tests\bin\Debug\netcoreapp2.2\Bowling.Tests.runtimeconfig.json
+C:\Users\EurosatCS\RiderProjects\Bowling\Bowling.Tests\bin\Debug\netcoreapp2.2\Bowling.Tests.runtimeconfig.dev.json
+C:\Users\EurosatCS\RiderProjects\Bowling\Bowling.Tests\bin\Debug\netcoreapp2.2\Bowling.Tests.dll
+C:\Users\EurosatCS\RiderProjects\Bowling\Bowling.Tests\bin\Debug\netcoreapp2.2\Bowling.Tests.pdb
+C:\Users\EurosatCS\RiderProjects\Bowling\Bowling.Tests\bin\Debug\netcoreapp2.2\Bowling.dll
+C:\Users\EurosatCS\RiderProjects\Bowling\Bowling.Tests\bin\Debug\netcoreapp2.2\Bowling.pdb
+C:\Users\EurosatCS\RiderProjects\Bowling\Bowling.Tests\obj\Debug\netcoreapp2.2\Bowling.Tests.csprojAssemblyReference.cache
+C:\Users\EurosatCS\RiderProjects\Bowling\Bowling.Tests\obj\Debug\netcoreapp2.2\Bowling.Tests.csproj.CoreCompileInputs.cache
+C:\Users\EurosatCS\RiderProjects\Bowling\Bowling.Tests\obj\Debug\netcoreapp2.2\Bowling.Tests.AssemblyInfoInputs.cache
+C:\Users\EurosatCS\RiderProjects\Bowling\Bowling.Tests\obj\Debug\netcoreapp2.2\Bowling.Tests.AssemblyInfo.cs
+C:\Users\EurosatCS\RiderProjects\Bowling\Bowling.Tests\obj\Debug\netcoreapp2.2\Bowling.Tests.csproj.CopyComplete
+C:\Users\EurosatCS\RiderProjects\Bowling\Bowling.Tests\obj\Debug\netcoreapp2.2\Bowling.Tests.dll
+C:\Users\EurosatCS\RiderProjects\Bowling\Bowling.Tests\obj\Debug\netcoreapp2.2\Bowling.Tests.pdb

@@ -1,0 +1,63 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\EurosatCS\\RiderProjects\\Bowling\\Bowling.Tests\\Bowling.Tests.csproj",
+    "projectName": "Bowling.Tests",
+    "projectPath": "C:\\Users\\EurosatCS\\RiderProjects\\Bowling\\Bowling.Tests\\Bowling.Tests.csproj",
+    "outputPath": "C:\\Users\\EurosatCS\\RiderProjects\\Bowling\\Bowling.Tests\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "C:\\Users\\EurosatCS\\RiderProjects\\Bowling\\Bowling\\Bowling.csproj": {
+            "projectPath": "C:\\Users\\EurosatCS\\RiderProjects\\Bowling\\Bowling\\Bowling.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[15.9.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "NUnit": {
+          "target": "Package",
+          "version": "[3.12.0, )"
+        },
+        "NUnit.ConsoleRunner": {
+          "target": "Package",
+          "version": "[3.10.0, )"
+        },
+        "NUnit3TestAdapter": {
+          "target": "Package",
+          "version": "[3.13.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
