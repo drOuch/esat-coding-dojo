@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\EurosatCS\\RiderProjects\\PokerHands\\Evaluator\\Evaluator.csproj",
+    "projectUniqueName": "C:\\Users\\EurosatCS\\RiderProjects\\esat-coding-dojo\\PokerHands\\Evaluator\\Evaluator.csproj",
     "projectName": "Evaluator",
-    "projectPath": "C:\\Users\\EurosatCS\\RiderProjects\\PokerHands\\Evaluator\\Evaluator.csproj",
-    "outputPath": "C:\\Users\\EurosatCS\\RiderProjects\\PokerHands\\Evaluator\\obj\\",
+    "projectPath": "C:\\Users\\EurosatCS\\RiderProjects\\esat-coding-dojo\\PokerHands\\Evaluator\\Evaluator.csproj",
+    "outputPath": "C:\\Users\\EurosatCS\\RiderProjects\\esat-coding-dojo\\PokerHands\\Evaluator\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

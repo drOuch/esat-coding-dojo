@@ -1684,16 +1684,6 @@
         "runtime": {
           "bin/placeholder/Evaluator.dll": {}
         }
-      },
-      "Evaluator2/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.2",
-        "compile": {
-          "bin/placeholder/Evaluator2.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Evaluator2.dll": {}
-        }
       }
     }
   },
@@ -5904,17 +5894,12 @@
       "type": "project",
       "path": "../Evaluator/Evaluator.csproj",
       "msbuildProject": "../Evaluator/Evaluator.csproj"
-    },
-    "Evaluator2/1.0.0": {
-      "type": "project",
-      "path": "../Evaluator2/Evaluator2.csproj",
-      "msbuildProject": "../Evaluator2/Evaluator2.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
+      "C:\\Users\\EurosatCS\\RiderProjects\\esat-coding-dojo\\PokerHands\\Evaluator2\\Evaluator2.csproj",
       "Evaluator >= 1.0.0",
-      "Evaluator2 >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 15.9.0",
       "Microsoft.NETCore.App >= 2.2.0",
       "NUnit >= 3.11.0",
@@ -5929,11 +5914,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EurosatCS\\RiderProjects\\PokerHands\\Evaluator.Tests\\Evaluator.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\EurosatCS\\RiderProjects\\esat-coding-dojo\\PokerHands\\Evaluator.Tests\\Evaluator.Tests.csproj",
       "projectName": "Evaluator.Tests",
-      "projectPath": "C:\\Users\\EurosatCS\\RiderProjects\\PokerHands\\Evaluator.Tests\\Evaluator.Tests.csproj",
+      "projectPath": "C:\\Users\\EurosatCS\\RiderProjects\\esat-coding-dojo\\PokerHands\\Evaluator.Tests\\Evaluator.Tests.csproj",
       "packagesPath": "C:\\Users\\EurosatCS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EurosatCS\\RiderProjects\\PokerHands\\Evaluator.Tests\\obj\\",
+      "outputPath": "C:\\Users\\EurosatCS\\RiderProjects\\esat-coding-dojo\\PokerHands\\Evaluator.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5950,11 +5935,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\EurosatCS\\RiderProjects\\PokerHands\\Evaluator2\\Evaluator2.csproj": {
-              "projectPath": "C:\\Users\\EurosatCS\\RiderProjects\\PokerHands\\Evaluator2\\Evaluator2.csproj"
+            "C:\\Users\\EurosatCS\\RiderProjects\\esat-coding-dojo\\PokerHands\\Evaluator2\\Evaluator2.csproj": {
+              "projectPath": "C:\\Users\\EurosatCS\\RiderProjects\\esat-coding-dojo\\PokerHands\\Evaluator2\\Evaluator2.csproj"
             },
-            "C:\\Users\\EurosatCS\\RiderProjects\\PokerHands\\Evaluator\\Evaluator.csproj": {
-              "projectPath": "C:\\Users\\EurosatCS\\RiderProjects\\PokerHands\\Evaluator\\Evaluator.csproj"
+            "C:\\Users\\EurosatCS\\RiderProjects\\esat-coding-dojo\\PokerHands\\Evaluator\\Evaluator.csproj": {
+              "projectPath": "C:\\Users\\EurosatCS\\RiderProjects\\esat-coding-dojo\\PokerHands\\Evaluator\\Evaluator.csproj"
             }
           }
         }
@@ -5998,5 +5983,16 @@
         "warn": true
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\EurosatCS\\RiderProjects\\esat-coding-dojo\\PokerHands\\Evaluator2\\Evaluator2.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\EurosatCS\\RiderProjects\\esat-coding-dojo\\PokerHands\\Evaluator2\\Evaluator2.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.2"
+      ]
+    }
+  ]
 }
